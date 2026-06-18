@@ -8,7 +8,7 @@
 [![Follow on GitHub](https://img.shields.io/github/followers/HeyitsSridhar?label=Follow&style=social)](https://github.com/HeyitsSridhar)
 [![Profile views](https://komarev.com/ghpvc/?username=HeyitsSridhar&color=blue)](https://github.com/HeyitsSridhar)
 
-**Product-focused software developer** building robust web applications and developer tools. Passionate about clean code, scalable architecture, and creating intuitive user experiences. I’m a good-vibe coder and prompt engineer — I build with AI tools like ChatGPT, Claude, Windsurf, and Antigravity, and I'm a VS Code power-user.
+**Product-focused software developer** building robust web applications and developer tools. Passionate about clean code, scalable architecture, and creating intuitive user experiences. I’m a go[...]
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy building with LLMs and AI tooling. Some of the tools I use frequently:
 ## 🔗 Let's Connect
 
 - **GitHub**: [@HeyitsSridhar](https://github.com/HeyitsSridhar)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sridhar)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sridhar-n-6a26b138b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Email**: [Get in touch](mailto:hi@example.com)
 
 ---
