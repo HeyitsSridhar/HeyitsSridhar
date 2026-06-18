@@ -8,7 +8,7 @@
 [![Follow on GitHub](https://img.shields.io/github/followers/HeyitsSridhar?label=Follow&style=social)](https://github.com/HeyitsSridhar)
 [![Profile views](https://komarev.com/ghpvc/?username=HeyitsSridhar&color=blue)](https://github.com/HeyitsSridhar)
 
-**Product-focused software developer** building robust web applications and developer tools. Passionate about clean code, scalable architecture, and creating intuitive user experiences. I thrive at the intersection of design, engineering, and product thinking.
+**Product-focused software developer** building robust web applications and developer tools. Passionate about clean code, scalable architecture, and creating intuitive user experiences. I’m a good-vibe coder and prompt engineer — I build with AI tools like ChatGPT, Claude, Windsurf, and Antigravity, and I'm a VS Code power-user.
 
 ---
 
@@ -17,6 +17,7 @@
 - 🏗️ **Full Stack Development** — From React frontends to Node.js backends, crafting end-to-end solutions
 - 🎨 **Product Engineering** — Translating business needs into elegant technical implementations
 - 🔧 **Developer Experience** — Building tools and libraries that make developers' lives easier
+- 🤖 **Prompt Engineering & AI Tooling** — Designing prompts, integrating LLMs (ChatGPT, Claude), and experimenting with tools like Windsurf and Antigravity
 - 📚 **Continuous Learning** — Staying current with modern frameworks, patterns, and best practices
 
 ---
@@ -32,6 +33,18 @@
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+## 🧰 AI & Tools
+
+I enjoy building with LLMs and AI tooling. Some of the tools I use frequently:
+
+- ChatGPT
+- Claude
+- Windsurf
+- Antigravity
+- VS Code (power-user workflows and extensions)
 
 ---
 
